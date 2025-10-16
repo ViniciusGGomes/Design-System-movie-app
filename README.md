@@ -2,7 +2,8 @@
 
 Um Design System completo desenvolvido em Flutter para um futuro aplicativo de filmes e séries. Este projeto acadêmico estabelece a base visual e funcional com componentes reutilizáveis que serão utilizados no desenvolvimento do aplicativo completo.
 
-🎯 Objetivo
+### 🎯 Objetivo
+
 Este Design System é a primeira fase do projeto acadêmico. Os componentes criados aqui serão reutilizados na segunda fase: o desenvolvimento de um aplicativo completo de streaming de filmes.
 
 ### 🎨 Design System
