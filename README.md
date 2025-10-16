@@ -12,3 +12,4 @@ Este Design System é a primeira fase do projeto acadêmico. Os componentes cria
 ### 📸 Screenshots
 <img width="627" height="801" alt="Image" src="https://github.com/user-attachments/assets/74fef7fd-214c-4620-9381-0a742678040f" />
 <img width="561" height="698" alt="Image" src="https://github.com/user-attachments/assets/d20fe61d-ecbe-4529-9489-35a96273272e" />
+<img width="541" height="673" alt="Image" src="https://github.com/user-attachments/assets/2fa602d8-2f7c-4cee-a2ab-040d19c1d66c" />
